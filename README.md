@@ -1,4 +1,4 @@
-Form of *select2* for private use case.
+Fork of *select2* for private use case.
  * `select2.css` was annotates with noflip comments so we can convert to an RTL CSS with [cssjanus](https://github.com/trevorparscal/cssjanus)
 * a `../../` prefix was added to all images references.
 
